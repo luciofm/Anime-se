@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Anime-se</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_touch_feedback">TouchFeedbackActivity</string>
+    <string name="title_activity_layout_transition">LayoutTransitionActivity</string>
+    <string name="one_button">Um botão</string>
+    <string name="title_activity_view_property">ViewPropertyActivity</string>
+    <string name="title_activity_layout_transitions_activity2">LayoutTransitionsActivity2</string>
+    <string name="title_activity_transitions">TransitionsActivity</string>
+
+</resources>

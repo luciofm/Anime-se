@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LayoutTransitionActivity" >
+    
+    <item android:id="@+id/action_add_text"
+        android:title="TEXT"
+        android:showAsAction="always" />
+
+    <item android:id="@+id/action_add_button"
+          android:title="BUTTON"
+          android:showAsAction="always" />
+</menu>
